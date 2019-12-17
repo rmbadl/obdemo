@@ -1,3 +1,6 @@
+
+
+
 # [How to train an object detection model easy for free](https://www.dlology.com/blog/how-to-train-an-object-detection-model-easy-for-free/) | DLology Blog
 
 
@@ -11,7 +14,7 @@ Alternatively, if you want to use your images instead of ones comes with this re
 Require [Python 3.5+](https://www.python.org/ftp/python/3.6.4/python-3.6.4.exe) installed.
 ### Fork and clone this repository to your local machine.
 ```
-https://github.com/Tony607/object_detection_demo
+https://github.com/rmbadl/object_detection_demo.git
 ```
 ### Install required libraries
 `pip3 install -r requirements.txt`
