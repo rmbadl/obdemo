@@ -1,0 +1,26 @@
+<annotation>
+	<folder>uvas</folder>
+	<filename>206.jpg</filename>
+	<path>/home/adele/Descargas/uvas/206.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>183</width>
+		<height>275</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Black grapes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>48</ymin>
+			<xmax>126</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+</annotation>
