@@ -1,0 +1,38 @@
+<annotation>
+	<folder>uvas</folder>
+	<filename>298.jpg</filename>
+	<path>/home/adele/Descargas/uvas/298.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>271</width>
+		<height>186</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Green grapes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>16</ymin>
+			<xmax>270</xmax>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Red Grapes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>47</ymin>
+			<xmax>123</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+</annotation>
